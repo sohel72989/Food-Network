@@ -10,7 +10,7 @@ body{
     margin: 20px 50px;
 }
 p{
-    font-size: 30px;
+    font-size: 25px;
     margin-top: 30px;
     margin-bottom: 60px;
 }
@@ -51,7 +51,16 @@ h2{
     width: 50%;
     margin: 30px 30px;
     padding: 50px 10px;
-    border: 1px solid #BFBFBF;
-    box-shadow: 10px 10px 10px #aaaaaa;
+    border: 10px rgb(170, 151, 151);
+    box-shadow: 5px 5px 15px 10px gray;
     border-radius: 40px;
+  }
+  footer{
+      color: blanchedalmond;
+      text-align: center;
+      padding: 20px 20px;
+      background-color: black;
+  }
+  .foot-color{
+      color: dimgrey;
   }
