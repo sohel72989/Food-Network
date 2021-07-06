@@ -1,5 +1,5 @@
 body{
-    font-family:'Open Sans', sans-serif;
+    font-family:'dimgray', sans-serif;
     margin: 0%;
 }
 .topnav {
@@ -36,10 +36,12 @@ p{
     margin-bottom: 60px;
 }
 h1{
+    color: rgb(85, 81, 81);
     font-size: 50px;
     font-weight: 700;
 }
 h2{
+    color: dimgrey;
     font-size: 40px
 }
 .font-color{
